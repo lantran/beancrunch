@@ -38,10 +38,10 @@
 
             <div class="inner cover">
                 <h1 class="cover-heading">BeanCrunch Ltd</h1>
-                <h4>Brewing technology driven products and hacks since 2013.</h4>
+                <h4>Brewing technology driven products and hacks since 2014.</h4>
                 <p class="lead">We are currently setting up our new digital home and will be ready soon. In the mean time
                 please feel free to contact us directly at
-                    <a href="mailto:beancrunch_ltd@gmail.com">beancrunch_ltd@gmail.com</a>
+                    <a href="mailto:hello@beancrunch.com">beancrunch_ltd@gmail.com</a>
                 </p>
             </div>
 
